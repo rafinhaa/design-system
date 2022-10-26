@@ -22,7 +22,10 @@
     "@storybook/testing-library": "^0.0.13",
     "@vitejs/plugin-react": "^2.1.0",
     "babel-loader": "^8.2.5",
-    "vite": "^3.1.4"
+    "vite": "^3.1.4",
+    "@ignite-ui/eslint-config": "*",
+    "@ignite-ui/tokens": "*",
+    "@ignite-ui/ts-config": "*"
   },
   "dependencies": {
     "react": "^18.2.0",
