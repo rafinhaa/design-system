@@ -5,7 +5,7 @@ interface TokensGridProps {
   hasRemValue?: boolean
 }
 
-export const TokensGrid = ({ tokens, hasRemValue }: TokensGridProps) => {
+export function TokensGrid({ tokens, hasRemValue = false }: TokensGridProps) {
   return (
     <table className="tokens-grid">
       <thead>
@@ -15,6 +15,7 @@ export const TokensGrid = ({ tokens, hasRemValue }: TokensGridProps) => {
           {hasRemValue && <th>Pixels</th>}
         </tr>
       </thead>
+
       <tbody>
         {Object.entries(tokens).map(([key, value]) => {
           return (
