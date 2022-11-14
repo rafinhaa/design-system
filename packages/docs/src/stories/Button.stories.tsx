@@ -26,9 +26,9 @@ export default {
     },
     disabled: {
       control: {
-        type: 'boolean'
-      }
-    }
+        type: 'boolean',
+      },
+    },
     onClick: {
       action: 'click',
     },

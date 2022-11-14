@@ -5,7 +5,7 @@ export default {
   title: 'Typography/Text',
   component: Text,
   args: {
-    size: 'md'
+    size: 'md',
     children: 'lorem ipsum, dolor isuet',
   },
   argTypes: {
