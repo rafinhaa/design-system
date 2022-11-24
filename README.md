@@ -1,3 +1,6 @@
+<h4 align="center">
+  <img src="docs/images/logo.svg" alt="Logo" />
+</h4>
 
 <h4 align="center">
     <p align="center">
@@ -14,11 +17,12 @@
 O **designer-system** é um mono repo contendo os seguintes pacotes:
 
 Com esse projeto é possível:
- - **docs**: Documentação do pacote react em storybook
- - **eslint-config**: Configuração padrão de ESLint
- - **react**: Componentes
- - **tokens**: Todos os tokens usados pelo DS
- - **ts-config**: Configuração global do typescript
+
+- **docs**: Documentação do pacote react em storybook
+- **eslint-config**: Configuração padrão de ESLint
+- **react**: Componentes
+- **tokens**: Todos os tokens usados pelo DS
+- **ts-config**: Configuração global do typescript
 
 O layout está disponível no [Figma](https://www.figma.com/file/cowwFHJimoyQomSAynMjGz/Ignite-Call?node-id=4%3A412)
 
@@ -26,7 +30,6 @@ O layout está disponível no [Figma](https://www.figma.com/file/cowwFHJimoyQomS
 
 - [ReactJS](https://reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
-
 
 ## 🏁 How to run the project
 
@@ -56,6 +59,7 @@ npm run version-packages
 Package versions are published automatically with each new push on the main branch and are available [here](https://www.npmjs.com/org/codeheart)
 
 ## 📝 License
+
 [Detalhes](docs/about)
 
 [MIT](LICENSE)
