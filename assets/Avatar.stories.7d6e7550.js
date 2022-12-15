@@ -1,0 +1,2 @@
+import{A as t}from"./index.c7dd16df.js";import"./index.76f2e398.js";import"./iframe.e09f577d.js";import"./index.af18989f.js";import"./jsx-runtime.f154afdc.js";const c={title:"Data display/Avatar",component:t,args:{src:"https://via.placeholder.com/150",alt:"Avatar"},argTypes:{src:{control:{type:"text"}}}},p={},e={args:{src:void 0}},l=["Primary","WithFallback"];export{p as Primary,e as WithFallback,l as __namedExportsOrder,c as default};
+//# sourceMappingURL=Avatar.stories.7d6e7550.js.map
