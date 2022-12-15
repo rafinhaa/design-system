@@ -62,6 +62,6 @@ Package versions are published automatically with each new push on the main bran
 
 [Detalhes](docs/about)
 
-[MIT](LICENSE)
+[MIT](https://choosealicense.com/licenses/mit/)
 
 **Free Software, Hell Yeah!**
